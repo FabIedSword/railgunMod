@@ -2,7 +2,7 @@
 
 
 
-
+600 DOWNLOADS! THANK YOU EVERYONE FOR THE SUPPORT!
 
 Railgun mod adds railguns. (Who could have guessed?)
 
@@ -12,20 +12,12 @@ Railguns exclusively use their own ammo, known as Energy Shells. Energy shells a
 You can find the crafting recipes via recipe browser, or by talking to the guide with wire.
 Not compatible with WeaponOut (causes some weird animations with the railguns) Sorry! Will fix soon
 
-Patch notes for 3.0.0:
-We finally have a mod logo! Is due to change eventually but hope it's fine for now!
-We also have a new discord server! (see invite at top)
-I've buffed all of the railguns (except default one) so that they are more useful against Hardmode enemies and bosses.
+Patch notes for 5.0.0.
 
+Hey everybody!
 
+Sorry for waiting uh, two months.
+We've got a rather small update, but I'm going to start trying to work on this mod more.
 
-
-HUGE thanks to:
-
-Frog, (me) for making the mod
-pro gamer#4478
-
-LolXD87#2364
-For helping me solve & learn almost all of my issues with the code. This mod's code is very poorly made (my first project) and I couldnt've got it working without him.
-
-And to the rest of the TML discord server for providing feedback on sprites & helping out in general! You guys are awesome!
+I added 'The Terrarail', a very powerful railgun able to toggle between full-auto and burst-fire.
+Expect a bigger update within the coming weeks! :)

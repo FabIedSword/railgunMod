@@ -1,3 +1,3 @@
 displayName = Railgun Mod
 author = fabledsword
-version = 3.0.1
+version = 5.0.0

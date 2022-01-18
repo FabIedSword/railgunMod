@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9F7FItY98NBX/ZobjT+ZfI+GAE5RfR5ps7iWOk/caZz6jJ3EqB9wuMo2By8N1O2F4cmypGGFFDbTeqpNDTSjTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fable\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\railgunMod\\railgunMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fable\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

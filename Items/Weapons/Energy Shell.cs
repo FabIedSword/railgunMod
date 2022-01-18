@@ -15,7 +15,7 @@ namespace railgunMod.Items.Weapons
 
         public override void SetDefaults()
         {
-            item.damage = 50;
+            item.damage = 5;
             item.magic = true;
             item.width = 14;
             item.height = 14;
